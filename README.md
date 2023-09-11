@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @LuuHuyQuan
 <h2 align="center">📖 My Introduction Information 📖</h2>
 <br>
 <p><strong>☕ First and last name : Luu Huy Quan. </strong></p>
