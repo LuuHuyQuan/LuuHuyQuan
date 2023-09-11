@@ -38,17 +38,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/iuuhuyanh.luu" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="luuhuyquan-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.instagram.com/luuhuyquan04/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="luuhuyquan-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://www.instagram.com/luuhuyquan04/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="luuhuyquan-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:luuhuyquandt05@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="luuhuyquan-email" />
   </a>
 </div>
 
