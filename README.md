@@ -55,9 +55,9 @@
 <br>
 
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/iuuhuyanh.luu?locale=vi_VN" target="_blank">https://www.facebook.com/iuuhuyanh.luu?locale=vi_VN</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:luuhuyquandt05@gmail.com" target="_top">luuhuyquandt05@gmail.com</a></strong>
 </p>
 </div>
 
