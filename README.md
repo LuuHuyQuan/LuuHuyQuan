@@ -4,8 +4,9 @@
 <p><strong>☕ I was born on July 4, 2005. </strong> </p>
 <p><strong>☕ I am studying information technology at Hung Yen University of Technical Education. </strong></p>
 <p><strong>☕ I start my first year in 2023 and the major I pursue is IOT application development and fullstack developer. </strong></p>
-<p><strong>☕ In addition, I also learn other programming languages : Java. </strong></p>
+<p><strong>☕ In addition, I also learn other programming languages : C#. </strong></p>
 <p><strong>☕ commonly used language : English and Vietnamese . </strong></p>
+<p><strong>☕ Ted Turner's favorite quote: "Bạn không bao giờ bỏ cuộc, người chiến thắng không bao giờ bỏ cuộc, người bỏ cuộc không bao giờ chiến thắng". </strong></p>
  
 <p><strong>☕ Nationality : Viet Nam. </strong></p>
 
