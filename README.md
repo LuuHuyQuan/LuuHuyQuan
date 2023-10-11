@@ -1,7 +1,7 @@
 <h2 align="center">📖 My Introduction Information 📖</h2>
 <br>
 <p><strong>☕ First and last name : Luu Huy Quan. </strong></p>
-<p><strong>☕ This year alone 18. </strong> </p>
+<p><strong>☕ I was born on July 4, 2005. </strong> </p>
 <p><strong>☕ I am studying information technology at Hung Yen University of Technical Education. </strong></p>
 <p><strong>☕ I start my first year in 2023 and the major I pursue is IOT application development. </strong></p>
 <p><strong>☕ In addition, I also learn other programming languages : Java. </strong></p>
